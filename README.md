@@ -177,7 +177,3 @@ This project was created as a practical exercise in:
 - asynchronous file operations
 - HTML parsing
 - separating application logic into reusable functions
-
-## License
-
-This project is provided for educational and practice purposes. If you add a license to the repository, update this section to match the license file.
